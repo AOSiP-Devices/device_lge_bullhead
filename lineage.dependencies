@@ -1,9 +1,7 @@
 [
   {
-    "repository"  : "zkp/bullhead",
+    "repository"  : "theandroid02/android_kernel_lge_bullhead",
     "target_path" : "kernel/lge/bullhead",
-    "branch"      : "latest",
-    "remote"      : "gitlab"
   },
   {
     "repository"  : "vendor_lge",
